@@ -1,0 +1,23 @@
+﻿  QueueMangment.cpp
+C:\Users\User\Desktop\Queue\QueueMangment\clsString.h(42,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'QueueMangment.cpp')
+  
+C:\Users\User\Desktop\Queue\QueueMangment\clsString.h(47,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'QueueMangment.cpp')
+  
+C:\Users\User\Desktop\Queue\QueueMangment\clsString.h(59,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'QueueMangment.cpp')
+  
+C:\Users\User\Desktop\Queue\QueueMangment\clsString.h(195,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'QueueMangment.cpp')
+  
+C:\Users\User\Desktop\Queue\QueueMangment\clsString.h(326,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'QueueMangment.cpp')
+  
+C:\Users\User\Desktop\Queue\QueueMangment\clsString.h(373,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'QueueMangment.cpp')
+  
+C:\Users\User\Desktop\Queue\QueueMangment\clsQueueLine.h(108,30): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'QueueMangment.cpp')
+  
+  QueueMangment.vcxproj -> C:\Users\User\Desktop\Queue\QueueMangment\x64\Debug\QueueMangment.exe
